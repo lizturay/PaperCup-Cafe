@@ -59,7 +59,7 @@ def seed_inventory() -> Dict[str, Product]:
         "F2": Product("F2", "food", "Carrot Cake Slice", 3.40, 10, "Carrot, cinnamon, cream cheese frosting"),
         "F3": Product("F3", "food", "Cheese Cake", 4.00, 10, "Cream cheese, digestive, vanilla"),
         "F4": Product("F4", "food", "Croissant", 3.00, 15, "Bread"),
-        "F5": Product("F5", "food", "Chesse Bagel", 4.00, 7, "Cheese, Bread"),
+        "F5": Product("F5", "food", "Cheese Bagel", 4.00, 7, "Cheese, Bread"),
 
         # BOOKS
         "B1": Product("B1", "books", "Atomic Habits", 12.99, 8,
