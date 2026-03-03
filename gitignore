@@ -29,6 +29,6 @@ build/
 htmlcov/
 .pytest_cache/
 
-# Env files (never commit secrets)
+# Env files
 .env
 *.env
