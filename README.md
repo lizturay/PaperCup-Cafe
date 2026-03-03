@@ -106,4 +106,4 @@ Select `1` to start a customer order, or `2` to access the employee portal.
 
 ## Team
 
-Built by the PaperCup team as a Python learning project.
+Built by the Generations 'PaperCup' team as a Python learning project.
